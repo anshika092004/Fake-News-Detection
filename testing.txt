@@ -1,0 +1,27 @@
+ Fake News Samples (from Fake.csv)
+Title: Donald Trump Sends Out Embarrassing New Year’s Eve Message; This is Disturbing
+
+Text (Excerpt): Donald Trump just couldn’t wish all Americans a Happy New Year. He had to make it about himself...
+
+Title: Pope Francis Shocks World, Endorses Donald Trump for President, Releases Statement
+
+Text (Excerpt): In a move that has shocked the world, Pope Francis announced he is officially endorsing Donald Trump...
+
+Title: BREAKING: Obama Confirms Refusal To Leave White House, Plans To Stay In Power
+
+Text (Excerpt): Barack Obama has no intention of giving up power. He is planning to stay in the White House after Trump’s inauguration...
+NASA confirms Earth will experience 15 days of darkness in November due to planetary alignment
+
+✅ Real News Samples (from True.csv)
+Title: Trump administration to allow oil and gas drilling off US coasts
+
+Text (Excerpt): 6
+
+Title: North Korea says it has successfully tested a hydrogen bomb
+
+Text (Excerpt): North Korea claimed on Sunday that it successfully tested a hydrogen bomb...
+
+Title: Senate passes budget blueprint, clearing path for tax overhaul
+
+Text (Excerpt): The Senate narrowly passed a $4 trillion budget blueprint, a step toward the Republicans’ goal of overhauling the tax code...
+
