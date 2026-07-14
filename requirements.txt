@@ -1,8 +1,4 @@
 Flask
-scikit-learn
-pandas
-nltk
-numpy
-matplotlib
-seaborn
 gunicorn
+scikit-learn
+nltk
